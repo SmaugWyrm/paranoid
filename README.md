@@ -2,5 +2,5 @@
 
 [paranoidpress](https://paranoidpress.com)
 
-[Main Page](MainPage)
+[Main Page](https://github.com/SmaugWyrm/paranoid/wiki)
 
