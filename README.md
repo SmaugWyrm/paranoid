@@ -1,4 +1,4 @@
-##SmaugWyrm
+# SmaugWyrm
 
 [paranoidpress](https://paranoidpress.com)
 
