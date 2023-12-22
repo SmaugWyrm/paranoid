@@ -20,3 +20,7 @@
 @@||status.plex.tv^$important
 @@||tvdb2.plex.tv^$important
 @@||tvthemes.plexapp.com^$important
+@@||*.windowsupdate.com^$important
+@@||*.microsoft.com^$important
+@@||*.github.com^$important
+@@||*.docker.com^$important
